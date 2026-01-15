@@ -8,7 +8,7 @@ and determine the sentiment expressed in the text.
 This project is NOT based on Deep Learning and does not use neural networks.
 It uses traditional Machine Learning algorithms.
 
- #Technologies Used
+ # Technologies Used
 - Python
 - Machine Learning
 - Natural Language Processing (NLP)
